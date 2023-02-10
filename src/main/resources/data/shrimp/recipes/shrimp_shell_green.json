@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "shrimp:shrimp_shell_block_green"
+    }
+  ],
+  "result": {
+    "item": "shrimp:shrimp_shell_green",
+    "count": 9
+  }
+}

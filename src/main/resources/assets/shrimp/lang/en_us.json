@@ -1,0 +1,33 @@
+{
+  "item.shrimp.shrimp_shell_red": "Red Shrimp Shell",
+  "item.shrimp.shrimp_shell_blue": "Blue Shrimp Shell",
+  "item.shrimp.shrimp_shell_yellow": "Yellow Shrimp Shell",
+  "item.shrimp.shrimp_shell_green": "Green Shrimp Shell",
+  "item.shrimp.shrimp_shell_orange": "Orange Shrimp Shell",
+  "item.shrimp.shrimp_shell_black": "Black Shrimp Shell",
+  "item.shrimp.shrimp_shell_white": "White Shrimp Shell",
+  "item.shrimp.shrimp_shell_clear": "Clear Shrimp Shell",
+
+  "item.shrimp.java_moss": "Java Moss",
+
+  "item.shrimp.prawn": "Raw Prawn",
+  "item.shrimp.golden_prawn": "Golden Prawn!",
+  "itemGroup.Shrimp Mod": "Shrimp Stuff!",
+
+  "block.shrimp.breathing_block": "Breathing Block",
+  "block.shrimp.vision_block": "Vision Block",
+
+  "block.shrimp.shrimp_fossil_red": "Red Shrimp Fossil",
+  "block.shrimp.shrimp_fossil_blue": "Blue Shrimp Fossil",
+  "block.shrimp.shrimp_fossil_yellow": "Yellow Shrimp Fossil",
+  "block.shrimp.shrimp_fossil_green": "Green Shrimp Fossil",
+  "block.shrimp.shrimp_fossil_orange": "Orange Shrimp Fossil",
+  "block.shrimp.shrimp_fossil_white": "White Shrimp Fossil",
+  "block.shrimp.shrimp_fossil_black": "Black Shrimp Fossil",
+  "block.shrimp.shrimp_fossil_clear": "Clear Shrimp Fossil",
+  "item.shrimp.fossil_finder": "Fossil Finder",
+  "item.shrimp.fossil_finder.no_valuables": "No Fossils Found",
+  "tooltip.shrimp.fossil_finder.tooltip.shift": "If you right click on the ground the fossil finder will tell you if there are any fossils below the surface",
+  "tooltip.shrimp.fossil_finder.tooltip": "Right click on the ground to find fossils!",
+  "block.shrimp.real_sub_black": "Black Realistic Substrate"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "shrimp:block/rho_wood_planks"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "shrimp:block/rho_wood_slab"
+    },
+    "type=double": {
+      "model": "shrimp:block/rho_wood"
+    },
+    "type=top": {
+      "model": "shrimp:block/rho_wood_slab_top"
+    }
+  }
+}

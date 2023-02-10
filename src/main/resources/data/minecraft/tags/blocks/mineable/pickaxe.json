@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "shrimp:shrimp_shell_block_red",
+    "shrimp:shrimp_shell_block_blue",
+    "shrimp:shrimp_shell_block_yellow",
+    "shrimp:shrimp_shell_block_green",
+    "shrimp:shrimp_shell_block_orange",
+    "shrimp:shrimp_shell_block_white",
+    "shrimp:shrimp_shell_block_black",
+    "shrimp:shrimp_shell_block_clear",
+
+    "shrimp:shrimp_fossil_red",
+    "shrimp:shrimp_fossil_blue",
+    "shrimp:shrimp_fossil_yellow",
+    "shrimp:shrimp_fossil_green",
+    "shrimp:shrimp_fossil_orange",
+    "shrimp:shrimp_fossil_white",
+    "shrimp:shrimp_fossil_black",
+    "shrimp:shrimp_fossil_clear",
+    "shrimp:breathing_block",
+    "shrimp:vision_block",
+    "shrimp:real_sub_black"
+  ]
+}

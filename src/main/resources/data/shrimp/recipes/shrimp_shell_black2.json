@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "shrimp:shrimp_shell_fragment_black"
+    }
+  },
+  "result": {
+    "item": "shrimp:shrimp_shell_black"
+  }
+}

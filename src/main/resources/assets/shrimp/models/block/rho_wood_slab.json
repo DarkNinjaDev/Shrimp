@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "shrimp:block/rho_wood",
+    "top": "shrimp:block/rho_wood",
+    "side": "shrimp:block/rho_wood"
+  }
+}
